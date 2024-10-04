@@ -1,0 +1,10 @@
+D:\Project\Test\Hello World3\Hello World3\bin\Debug\Hello World3.exe.config
+D:\Project\Test\Hello World3\Hello World3\bin\Debug\Hello World3.exe
+D:\Project\Test\Hello World3\Hello World3\bin\Debug\Hello World3.pdb
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello World3.csproj.AssemblyReference.cache
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello_World3.Form1.resources
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello_World3.Properties.Resources.resources
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello World3.csproj.GenerateResource.cache
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello World3.csproj.CoreCompileInputs.cache
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello World3.exe
+D:\Project\Test\Hello World3\Hello World3\obj\Debug\Hello World3.pdb
