@@ -13,12 +13,12 @@ namespace HelloWorld
 {
     public partial class Form1 : Form
     {
-        private Counter counter;
+        private Counter counters;
 
         public Form1()
         {
             InitializeComponent();
-            counter = new Counter();
+            counters = new Counter();
             StartClockAsync(); // 啟動時鐘顯示功能
         }
 
