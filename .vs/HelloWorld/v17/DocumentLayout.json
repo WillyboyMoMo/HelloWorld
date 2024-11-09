@@ -1,12 +1,111 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HelloWorld\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\helloworld\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|solutionrelative:HelloWorld\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|c:\\users\\user\\onedrive\\\u684C\u9762\\helloworld\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA427660-0148-4BAF-BE82-0E90921A083A}|HelloWorld\\HelloWorld.csproj|solutionrelative:HelloWorld\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "HelloWorld\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:38:46.114Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeToolTip": "HelloWorld\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:04:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Counter.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Counter.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Counter.cs",
+              "RelativeToolTip": "HelloWorld\\Counter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:24:32.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:21:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u684C\u9762\\HelloWorld\\HelloWorld\\HelloWorld\\Form1.Designer.cs",
+              "RelativeToolTip": "HelloWorld\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:03:47.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
